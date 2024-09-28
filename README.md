@@ -8,7 +8,7 @@
 
 - 👯 Мы с другом делаем: **Ничего**
 
-- 👨‍💻 Мой последний проект: [github.io/WebStudio](https://devlega.github.io/WebStudio/)
+- 👨‍💻 Мой последний проект: [github.io/modimal](https://github.com/lizahannoshyna/modimal)
 
 - 📫 Моя почта: **olegshaker8888@gmail.com**
 
