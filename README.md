@@ -6,7 +6,7 @@
 
 - 🌱 Я изучаю: **JavaScript** и **HTML**
 
-- 👯 Мы с другом делаем: **Ничего**
+- 👯 Мы с другом делаем: [github.io/modimal](https://github.com/lizahannoshyna/modimal)
 
 - 👨‍💻 Мой последний проект: [github.io/modimal](https://github.com/lizahannoshyna/modimal)
 
