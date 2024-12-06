@@ -6,7 +6,7 @@
 
 - 👨‍💻 Мой последний проект: [github.io/modimal](https://github.com/lizahannoshyna/modimal)
 
-- ☎️ Связь со мной: [![discord](https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000) DISCORD](https://discordapp.com/users/340476032739966977)
+- ☎️ Связь со мной: [![discord](https://img.icons8.com/?size=12&id=M725CLW4L7wE&format=png&color=000000) DISCORD](https://discordapp.com/users/340476032739966977)
   
 - 📫 Моя почта: **olegshaker8888@gmail.com**
 
