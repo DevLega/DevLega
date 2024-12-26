@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer</h3>
 
 
-- 🌱 Learning: **JavaScript**, **HTML** и **JAVA**
+- 🌱 Learning: **JavaScript**, **HTML** & **JAVA**
 
 - 🌐 My socials: [![discord](https://img.icons8.com/?size=12&id=M725CLW4L7wE&format=png&color=000000) DISCORD](https://discordapp.com/users/340476032739966977)
   
