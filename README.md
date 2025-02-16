@@ -25,5 +25,4 @@
 <div id="mystats" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevLega&theme=dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevLega&theme=dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevLega&card_width=300&theme=dark" alt="GitHub Streak" />
 </div>
