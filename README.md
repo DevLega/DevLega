@@ -3,7 +3,7 @@
 <a href="https://wakatime.com/@1af88728-c3f1-4017-a3a9-41cb2a021b06"><img src="https://wakatime.com/badge/user/1af88728-c3f1-4017-a3a9-41cb2a021b06.svg" alt="Total time coded since Nov 19 2024" /></a>
 
 
-- 💻 Learning: **JavaScript**, **HTML**, **SpigotAPI** & **JAVA**
+- 💻 Learning: **JavaScript**, **SpigotAPI** & **JAVA**
 
 - 🌐 My socials: [![discord](https://img.icons8.com/?size=12&id=M725CLW4L7wE&format=png&color=000000) DISCORD](https://discordapp.com/users/1336392449102319770)
   
