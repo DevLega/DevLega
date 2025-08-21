@@ -12,7 +12,7 @@
 <h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,nodejs,js,java,html,css,scss,sass,vite,figma,github,git,idea,webstorm,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=sqlite,nodejs,js,java,html,css,scss,,vite,figma,github,git,idea,webstorm,vscode&perline=12" />
   </a>
 </p>
 
