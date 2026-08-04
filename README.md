@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, i'm LE GA</h1>
+<h1 align="center">Hello 👋, i'm Lega</h1>
 <h3 align="center">Frontend developer</h3>
 <a href="https://wakatime.com/@1af88728-c3f1-4017-a3a9-41cb2a021b06"><img src="https://wakatime.com/badge/user/1af88728-c3f1-4017-a3a9-41cb2a021b06.svg" alt="Total time coded since Nov 19 2024" /></a>
 
